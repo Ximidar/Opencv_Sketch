@@ -1,0 +1,3 @@
+/home/ximidar/workspace/Paint_by_numbers/CMakeFiles/edit_cache.dir
+/home/ximidar/workspace/Paint_by_numbers/CMakeFiles/rebuild_cache.dir
+/home/ximidar/workspace/Paint_by_numbers/CMakeFiles/PaintByNumbers.dir
